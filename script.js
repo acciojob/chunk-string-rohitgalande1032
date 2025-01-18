@@ -6,7 +6,7 @@ function stringChop(str, size) {
     result.push(substr)
   }
    
-  return result;
+  return result.toString();
 }
 
 // Do not change the code below
